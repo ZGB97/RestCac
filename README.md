@@ -9,7 +9,6 @@ Created a Web page that calculates a tip, total bill, and splits the bill based 
 <h2>Languages and Utilities Used</h2>
 
 - <b>JavaScript</b>
-- <b>HTML</b>
 
 <h2>Program Screenshots:</h2>
 
